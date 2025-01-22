@@ -18,7 +18,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://amazing0710.github.io/wedding/",
+  "homepage": "https://withus.today",
   "eslintConfig": {
     "extends": [
       "react-app",
